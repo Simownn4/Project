@@ -83,7 +83,12 @@
      <section id="projects">
 
     <h2 class="section-title">Projects</h2>
+<div class="projects">
 
+      <div class="card">
+        <h3>School Webpage</h3>
+        <p>A simple school activity webpage made using HTML and CSS.</p>
+      </div>
 
   
   
