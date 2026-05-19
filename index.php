@@ -93,6 +93,12 @@
         <h3>Python Calculator</h3>
         <p>A calculator program that performs basic math operations.</p>
       </div>
+      <div class="card">
+        <h3>Electricity Bill System</h3>
+        <p>A simple electricity bill system using java and database.</p>
+      </div>
+
+    </div>
 
   
   
