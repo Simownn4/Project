@@ -109,6 +109,14 @@
       </a>
 
     </div>
+</section>
 
+
+  <footer>
+    © 2026 Simon Modesto Portfolio
+  </footer>
+
+</body>
+</html>
   
   
