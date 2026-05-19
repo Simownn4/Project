@@ -304,11 +304,11 @@
       </div>
 <div style="text-align:left;">
         <img src="elect.jfif" alt="elect" style="
-          width: 400px;
-          height: 400px;
+          width: 500px;
+          height: 500px;
           border-radius: 10px;
           object-fit: cover;
-          margin: 20px 0;
+          margin: 20px -100px;
           border: 5px solid var(--accent);
           box-shadow: 0 4px 15px rgba(0,0,0,0.2);
         ">
@@ -317,21 +317,7 @@
 <p>Developed an Electricity Billing System using Java and a database to help users securely log in, monitor electricity usage (watts consumed), view billing history, and make online bill payments. The system provides an easy-to-use interface for managing electricity accounts and tracking payment records efficiently.
 </p>
       </div>
-      <div style="text-align:left;">
-        <img src="shp.jfif" alt="shp" style="
-          width: 400px;
-          height: 400px;
-          border-radius: 10px;
-          object-fit: cover;
-          margin: 50px 0;
-          border: 5px solid var(--accent);
-          box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-        ">
-      </div>
-<div  style="position: relative; left: 100px; top: 20px;"><h1>Electricity Bill System</h1>
-<p>Developed an Electricity Billing System using Java and a database to help users securely log in, monitor electricity usage (watts consumed), view billing history, and make online bill payments. The system provides an easy-to-use interface for managing electricity accounts and tracking payment records efficiently.
-</p>
- <br>
+      <br>
       <br>
       <div style="text-align:left;">
         <img src="shp.jfif" alt="shp" style="
@@ -343,12 +329,11 @@
           border: 5px solid var(--accent);
           box-shadow: 0 4px 15px rgba(0,0,0,0.2);
         ">
-        </div>
-        <div  style="position: relative; left: 100px; top: 20px;"><h1>Photo shop</h1>
-<p>Created simple yet creative food advertisement designs using Adobe Photoshop. Designed visually appealing promotional materials for food products and restaurants by combining creative layouts, typography, and image editing techniques to attract customers and enhance brand presentation.</p>
-      
-
       </div>
+<div  style="position: relative; left: 100px; top: 20px;"><h1>Photo shop</h1>
+<p>Created simple yet creative food advertisement designs using Adobe Photoshop. Designed visually appealing promotional materials for food products and restaurants by combining creative layouts, typography, and image editing techniques to attract customers and enhance brand presentation.</p>
+      </div>
+      
     </div>
 
   </section>
@@ -367,6 +352,7 @@
       <a href="http://github.com/Simownn4" target="_blank">
         GitHub: github.com/Simownn4
       </a>
+
     </div>
 
   </section>
