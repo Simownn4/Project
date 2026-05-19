@@ -22,5 +22,17 @@
     </ul>
   </nav>
 
+  <section class="hero">
+
+    <div class="hero-text">
+
+      <p class="small">BSIT 2E </p>
+
+      <h1>
+        Simon<br>
+        <span>Modesto</span>
+      </h1>
+
+
   
   
