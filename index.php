@@ -43,5 +43,18 @@
           border: 5px solid var(--accent);
           box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 
+            ">
+      </div>
+
+      <p>
+        I enjoy creating simple websites and programs.
+        Currently learning web development and programming.
+      </p>
+
+      <a href="#projects" class="btn">
+        View Projects
+      </a>
+
+
   
   
