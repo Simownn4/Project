@@ -99,6 +99,10 @@
       </div>
 
     </div>
+    <section id="contact">
+
+    <h2 class="section-title">Contact</h2>
+
 
   
   
