@@ -55,6 +55,21 @@
         View Projects
       </a>
 
+      
+  <section id="about">
+
+    <h2 class="section-title">About Me</h2>
+
+    <div class="about">
+
+      <p>
+        Hi, I'm Simon! Since I was a child, I have always loved computers. I used to spend a lot of time with the computer — it was my favorite thing to do growing up.
+      </p>
+
+      <p>
+        That passion stayed with me, and now as a BSIT student I get to turn it into a career. I enjoy building websites and programs, and I'm always looking to improve my skills.
+
+      </p>
 
   
   
