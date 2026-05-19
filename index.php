@@ -33,6 +33,15 @@
         <span>Modesto</span>
       </h1>
 
+      <div style="text-align:left;">
+        <img src="simon.jfif" alt="Simon Modesto Profile" style="
+          width: 200px;
+          height: 200px;
+          border-radius: 50%;
+          object-fit: cover;
+          margin: 20px 0;
+          border: 5px solid var(--accent);
+          box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 
   
   
