@@ -343,7 +343,11 @@
           border: 5px solid var(--accent);
           box-shadow: 0 4px 15px rgba(0,0,0,0.2);
         ">
-      </div>
+        </div>
+        <div  style="position: relative; left: 100px; top: 20px;"><h1>Photo shop</h1>
+<p>Created simple yet creative food advertisement designs using Adobe Photoshop. Designed visually appealing promotional materials for food products and restaurants by combining creative layouts, typography, and image editing techniques to attract customers and enhance brand presentation.</p>
+      
+
       </div>
     </div>
 
