@@ -71,5 +71,15 @@
 
       </p>
 
+      <div class="skills">
+        <div class="skill">HTML</div>
+        <div class="skill">CSS</div>
+        <div class="skill">JavaScript</div>
+        <div class="skill">Python</div>
+        <div class="skill">GitHub</div>
+      </div>
+
+    </div>
+
   
   
