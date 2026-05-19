@@ -103,6 +103,12 @@
 
     <h2 class="section-title">Contact</h2>
 
+    
+<a href="http://github.com/Simownn4" target="_blank">
+        GitHub: github.com/Simownn4
+      </a>
+
+    </div>
 
   
   
