@@ -238,6 +238,8 @@
         ">
       </div>
 
+      
+
       <p>
         I enjoy creating simple websites and programs.
         Currently learning web development and programming.
@@ -308,7 +310,13 @@
           object-fit: cover;
           margin: 20px 0;
           border: 5px solid var(--accent);
-          box-shadow: 0 4px 15px rgba(0,0,0,0.2)
+          box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        ">
+      </div>
+<div  style="position: relative; left: 100px; top: 20px;"><h1>Electricity Bill System</h1>
+<p>Developed an Electricity Billing System using Java and a database to help users securely log in, monitor electricity usage (watts consumed), view billing history, and make online bill payments. The system provides an easy-to-use interface for managing electricity accounts and tracking payment records efficiently.
+</p>
+      </div>
     </div>
 
   </section>
